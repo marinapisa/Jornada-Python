@@ -7,10 +7,8 @@ import time
 
 # pyautogui.write # escrever um texto
 # pyautogui.press # apertar uma tecla
-# pyautogui.cliMOMU000111   Multilaser  MouseCAHA000252   Hashtag Camisa  2   25.0    11.0    Conferir estoque    
-# CAHA000251   Hashtag Camisack # clicar em algum lugar
-# pyautogui.hotkeMOLO000192 Logitech    Mouse   2   19.95   5.0     
-# y # combinação de teclas
+# pyautogui.click # clicar em algum lugar
+# pyautogui.hotkey # combinação de teclas
 pyautogui.PAUSE = 0.3
 
 # abrir o navegador 
